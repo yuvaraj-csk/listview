@@ -73,7 +73,6 @@ Registeration Number : 212221040187
         android:padding="5dp"
         android:textColor="@color/black" />
 </LinearLayout>
-
 ```
 ## MAINACTIVITY.JAVA
 ```
@@ -152,15 +151,38 @@ public class CustomAdapter extends BaseAdapter {
         return view;
     }
 }
+```
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
 ## OUTPUT
-
-
 ![image](https://github.com/yuvaraj-csk/listview/assets/134052574/1d2ba151-6026-423f-950c-14997605d295)
+```
 
 
-
+```
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully.
